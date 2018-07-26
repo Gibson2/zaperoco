@@ -66,6 +66,9 @@ group :development, :test do
 
   #Protector de clave - Desarrollo
   gem 'dotenv-rails'
+
+  #sqlite3
+  gem 'sqlite3'
 end
 
 group :development do
